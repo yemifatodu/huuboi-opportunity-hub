@@ -1,0 +1,5455 @@
+[
+  {
+    "id": "google.com",
+    "name": "Google Business Profile",
+    "url": "https://google.com/business",
+    "domain": "google.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 100,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "trustpilot.com",
+    "name": "Trustpilot",
+    "url": "https://trustpilot.com",
+    "domain": "trustpilot.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 97,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "sourceforge.net",
+    "name": "Source Forge",
+    "url": "https://sourceforge.net",
+    "domain": "sourceforge.net",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 96,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "techcrunch.com",
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "domain": "techcrunch.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 96,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "behance.net",
+    "name": "Behance",
+    "url": "http://behance.net",
+    "domain": "behance.net",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 96,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "unsplash.com",
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "domain": "unsplash.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 96,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "quora.com",
+    "name": "Quora",
+    "url": "https://www.quora.com",
+    "domain": "quora.com",
+    "categories": [
+      "social-communities",
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 94,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "bbb.org",
+    "name": "Better Business Bureau",
+    "url": "https://www.bbb.org/get-listed",
+    "domain": "bbb.org",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 93,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tripadvisor.com",
+    "name": "TripAdvisor",
+    "url": "https://tripadvisor.com",
+    "domain": "tripadvisor.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 93,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "yelp.com",
+    "name": "Yelp",
+    "url": "https://yelp.com",
+    "domain": "yelp.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 93,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "g2.com",
+    "name": "G2",
+    "url": "https://g2.com",
+    "domain": "g2.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 93,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolhouse.gumroad.com",
+    "name": "AI Toolhouse",
+    "url": "https://aitoolhouse.gumroad.com/l/submit-tool",
+    "domain": "aitoolhouse.gumroad.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 92,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "crunchbase.com",
+    "name": "Crunchbase",
+    "url": "https://crunchbase.com",
+    "domain": "crunchbase.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 92,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "producthunt.com",
+    "name": "Product Hunt",
+    "url": "https://producthunt.com",
+    "domain": "producthunt.com",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 92,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "news.ycombinator.com",
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com",
+    "domain": "news.ycombinator.com",
+    "categories": [
+      "social-communities",
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 92,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "provenexpert.com",
+    "name": "Proven Expert",
+    "url": "https://www.provenexpert.com",
+    "domain": "provenexpert.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 91,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "capterra.com",
+    "name": "Capterra",
+    "url": "https://capterra.com",
+    "domain": "capterra.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 91,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "gartner.com",
+    "name": "Gartner",
+    "url": "https://gartner.com/reviews/home",
+    "domain": "gartner.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 91,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "bingplaces.com",
+    "name": "Bing Places",
+    "url": "https://bingplaces.com",
+    "domain": "bingplaces.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 91,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitools.neilpatel.com",
+    "name": "AI Tools (Neil Patel)",
+    "url": "https://aitools.neilpatel.com",
+    "domain": "aitools.neilpatel.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "yellowpages.com",
+    "name": "YellowPages",
+    "url": "https://yellowpages.com",
+    "domain": "yellowpages.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "financesonline.com",
+    "name": "Finances Online",
+    "url": "https://financesonline.com",
+    "domain": "financesonline.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "clutch.co",
+    "name": "Clutch",
+    "url": "https://clutch.co",
+    "domain": "clutch.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "trustradius.com",
+    "name": "TrustRadius",
+    "url": "https://trustradius.com",
+    "domain": "trustradius.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "softpedia.com",
+    "name": "Softpedia",
+    "url": "https://www.softpedia.com/user/submit.shtml",
+    "domain": "softpedia.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "awwwards.com",
+    "name": "Awwwards",
+    "url": "https://www.awwwards.com",
+    "domain": "awwwards.com",
+    "categories": [
+      "directories",
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "en.softonic.com",
+    "name": "Softonic",
+    "url": "https://en.softonic.com/android",
+    "domain": "en.softonic.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "brouseai.com",
+    "name": "BroUseAI",
+    "url": "https://www.brouseai.com/submission/ai",
+    "domain": "brouseai.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "dev.to",
+    "name": "Dev Community",
+    "url": "http://dev.to",
+    "domain": "dev.to",
+    "categories": [
+      "social-communities",
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "geekwire.com",
+    "name": "Geek Wire",
+    "url": "https://geekwire.com",
+    "domain": "geekwire.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "yourstory.com",
+    "name": "Yourstory",
+    "url": "https://yourstory.com",
+    "domain": "yourstory.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 90,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "getapp.com",
+    "name": "Get App",
+    "url": "https://getapp.com",
+    "domain": "getapp.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 89,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "goodfirms.co",
+    "name": "Good Firms",
+    "url": "https://goodfirms.co",
+    "domain": "goodfirms.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 89,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "smartcustomer.com",
+    "name": "Smart Customer",
+    "url": "https://www.smartcustomer.com/",
+    "domain": "smartcustomer.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 89,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tech.co",
+    "name": "Tech.co",
+    "url": "https://tech.co",
+    "domain": "tech.co",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 89,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "stackshare.io",
+    "name": "Stack Share",
+    "url": "https://stackshare.io",
+    "domain": "stackshare.io",
+    "categories": [
+      "misc"
+    ],
+    "fee": "free",
+    "domainRank": 89,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "appsumo.com",
+    "name": "Appsumo",
+    "url": "https://appsumo.com",
+    "domain": "appsumo.com",
+    "categories": [
+      "misc"
+    ],
+    "fee": "free",
+    "domainRank": 89,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "f6s.com",
+    "name": "F6S",
+    "url": "https://www.f6s.com/directory/companies",
+    "domain": "f6s.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 88,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "alternativeto.net",
+    "name": "Alternative To",
+    "url": "https://alternativeto.net",
+    "domain": "alternativeto.net",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 87,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "e27.co",
+    "name": "e27",
+    "url": "https://e27.co",
+    "domain": "e27.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 87,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "indiehackers.com",
+    "name": "Indie Hackers",
+    "url": "https://indiehackers.com",
+    "domain": "indiehackers.com",
+    "categories": [
+      "social-communities"
+    ],
+    "fee": "free",
+    "domainRank": 87,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "growthhackers.com",
+    "name": "Growth Hackers",
+    "url": "https://growthhackers.com",
+    "domain": "growthhackers.com",
+    "categories": [
+      "social-communities"
+    ],
+    "fee": "free",
+    "domainRank": 86,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "betakit.com",
+    "name": "Betakit",
+    "url": "https://betakit.com",
+    "domain": "betakit.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 86,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "betalist.com",
+    "name": "BetaList",
+    "url": "https://betalist.com",
+    "domain": "betalist.com",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": 85,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "killerstartups.com",
+    "name": "KillerStartups",
+    "url": "https://killerstartups.com",
+    "domain": "killerstartups.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 85,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "cssdesignawards.com",
+    "name": "Css Design Awards",
+    "url": "https://www.cssdesignawards.com/submit",
+    "domain": "cssdesignawards.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 85,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "eu-startups.com",
+    "name": "EU-Startups",
+    "url": "https://www.eu-startups.com/directory",
+    "domain": "eu-startups.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 84,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "onepagelove.com",
+    "name": "One Page Love",
+    "url": "https://onepagelove.com",
+    "domain": "onepagelove.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 84,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "land-book.com",
+    "name": "Land Book",
+    "url": "https://land-book.com/",
+    "domain": "land-book.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 84,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "nextdoor.com",
+    "name": "Nextdoor",
+    "url": "https://nextdoor.com",
+    "domain": "nextdoor.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 83,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "softwaresuggest.com",
+    "name": "Software Suggest",
+    "url": "https://softwaresuggest.com",
+    "domain": "softwaresuggest.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 83,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "addictivetips.com",
+    "name": "Addictive Tips",
+    "url": "https://www.addictivetips.com/tip-us",
+    "domain": "addictivetips.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 83,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "crozdesk.com",
+    "name": "Crozdesk",
+    "url": "https://crozdesk.com",
+    "domain": "crozdesk.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 82,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "angieslist.com",
+    "name": "Angie's List",
+    "url": "https://angieslist.com",
+    "domain": "angieslist.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 81,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "fark.com",
+    "name": "Fark",
+    "url": "https://www.fark.com",
+    "domain": "fark.com",
+    "categories": [
+      "social-communities"
+    ],
+    "fee": "free",
+    "domainRank": 81,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "saasworthy.com",
+    "name": "SaaS Worthy",
+    "url": "https://saasworthy.com",
+    "domain": "saasworthy.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 80,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "softwareworld.co",
+    "name": "Software World",
+    "url": "https://softwareworld.co",
+    "domain": "softwareworld.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 80,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "peerlist.io",
+    "name": "Peerlist",
+    "url": "https://peerlist.io",
+    "domain": "peerlist.io",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 80,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "lobste.rs",
+    "name": "Lobsters",
+    "url": "https://lobste.rs",
+    "domain": "lobste.rs",
+    "categories": [
+      "social-communities"
+    ],
+    "fee": "free",
+    "domainRank": 80,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "theresanaiforthat.com",
+    "name": "Theresanaiforthat",
+    "url": "https://theresanaiforthat.com/get-featured/#opt_submit",
+    "domain": "theresanaiforthat.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 79,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "siteinspire.com",
+    "name": "Site Inspire",
+    "url": "https://www.siteinspire.com/submissions/new",
+    "domain": "siteinspire.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 79,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "featuredcustomers.com",
+    "name": "Featured Customers",
+    "url": "https://featuredcustomers.com",
+    "domain": "featuredcustomers.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 78,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "csswinner.com",
+    "name": "CSS Winner",
+    "url": "https://www.csswinner.com/submitsite",
+    "domain": "csswinner.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 78,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "futurepedia.io",
+    "name": "Futurepedia",
+    "url": "https://www.futurepedia.io/submit-tool",
+    "domain": "futurepedia.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 76,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startupstash.com",
+    "name": "Startup Stash",
+    "url": "https://startupstash.com/",
+    "domain": "startupstash.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 76,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "submissionwebdirectory.com",
+    "name": "Submission Web Directory",
+    "url": "https://submissionwebdirectory.com",
+    "domain": "submissionwebdirectory.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 76,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "oecd.ai",
+    "name": "OECD AI",
+    "url": "https://oecd.ai/en/catalogue/tools/submit",
+    "domain": "oecd.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 76,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "unmatchedstyle.com",
+    "name": "Unmatched Style",
+    "url": "http://unmatchedstyle.com/submit",
+    "domain": "unmatchedstyle.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 76,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toolpilot.ai",
+    "name": "ToolPilot",
+    "url": "https://www.toolpilot.ai/pages/submit-your-ai-tool",
+    "domain": "toolpilot.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 75,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "alternative.me",
+    "name": "Alternative.me",
+    "url": "https://alternative.me",
+    "domain": "alternative.me",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 75,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "submit.nextbigwhat.com",
+    "name": "Next Big What",
+    "url": "https://submit.nextbigwhat.com/submit-your-startup",
+    "domain": "submit.nextbigwhat.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 75,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "saashub.com",
+    "name": "SaaS Hub",
+    "url": "https://www.saashub.com/services/submit",
+    "domain": "saashub.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 75,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "launchingnext.com",
+    "name": "Launching Next",
+    "url": "https://www.launchingnext.com/submit",
+    "domain": "launchingnext.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 73,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startupranking.com",
+    "name": "StartupRanking",
+    "url": "https://startupranking.com",
+    "domain": "startupranking.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 73,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "alltopstartups.com",
+    "name": "All Top Startups",
+    "url": "https://alltopstartups.com/directory/submit-startup/",
+    "domain": "alltopstartups.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 73,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "sideprojectors.com",
+    "name": "Side Projectors",
+    "url": "https://sideprojectors.com",
+    "domain": "sideprojectors.com",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 73,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "thingtesting.com",
+    "name": "Thing Testing",
+    "url": "https://thingtesting.com/submit-brand",
+    "domain": "thingtesting.com",
+    "categories": [
+      "misc"
+    ],
+    "fee": "free",
+    "domainRank": 73,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "crowdreviews.com",
+    "name": "Crowd Reviews",
+    "url": "https://crowdreviews.com",
+    "domain": "crowdreviews.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 72,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toolify.ai",
+    "name": "Toolify.ai",
+    "url": "https://www.toolify.ai/submit",
+    "domain": "toolify.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 70,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "futuretools.io",
+    "name": "Future Tools",
+    "url": "https://www.futuretools.io/submit-a-tool",
+    "domain": "futuretools.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 70,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "somuch.com",
+    "name": "Somuch",
+    "url": "https://somuch.com",
+    "domain": "somuch.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 70,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "techdirectory.io",
+    "name": "TechDirectory",
+    "url": "https://techdirectory.io",
+    "domain": "techdirectory.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 70,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "howbrandsarebuilt.com",
+    "name": "How Brands Are Built",
+    "url": "https://howbrandsarebuilt.com/submit/",
+    "domain": "howbrandsarebuilt.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "free",
+    "domainRank": 70,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "webdesignernews.com",
+    "name": "Web Designer News",
+    "url": "https://webdesignernews.com",
+    "domain": "webdesignernews.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 70,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "landingfolio.com",
+    "name": "Landingfolio",
+    "url": "https://www.landingfolio.com/submit",
+    "domain": "landingfolio.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 70,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "madewithvuejs.com",
+    "name": "Made With Vuejs",
+    "url": "https://madewithvuejs.com/submit",
+    "domain": "madewithvuejs.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 69,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "ecomm.design",
+    "name": "Ecomm Design",
+    "url": "https://ecomm.design/submit",
+    "domain": "ecomm.design",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 69,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "dang.ai",
+    "name": "Dang",
+    "url": "https://dang.ai",
+    "domain": "dang.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 68,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "business-software.com",
+    "name": "Business Software",
+    "url": "https://business-software.com",
+    "domain": "business-software.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 68,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "spotsaas.com",
+    "name": "Spot SaaS",
+    "url": "https://spotsaas.com",
+    "domain": "spotsaas.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 67,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "ebool.com",
+    "name": "Ebool",
+    "url": "https://ebool.com",
+    "domain": "ebool.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 67,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "saasgenius.com",
+    "name": "SaaS Genius",
+    "url": "https://saasgenius.com",
+    "domain": "saasgenius.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 67,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "webguruawards.com",
+    "name": "Webguru Awards",
+    "url": "https://www.webguruawards.com/site-submit",
+    "domain": "webguruawards.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 67,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "admiretheweb.com",
+    "name": "Admire The Web",
+    "url": "https://admiretheweb.com/submit",
+    "domain": "admiretheweb.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 67,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tooldirectory.ai",
+    "name": "AI Tool Directory",
+    "url": "https://tooldirectory.ai/submit-tool",
+    "domain": "tooldirectory.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 66,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "devhunt.org",
+    "name": "Dev Hunt",
+    "url": "https://devhunt.org",
+    "domain": "devhunt.org",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": 66,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tidyrepo.com",
+    "name": "Tidy Repo",
+    "url": "https://tidyrepo.com/suggest-plugin",
+    "domain": "tidyrepo.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 66,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "topai.tools",
+    "name": "TopAI.tools",
+    "url": "https://topai.tools/submit",
+    "domain": "topai.tools",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 65,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "pitchwall.co",
+    "name": "PitchWall",
+    "url": "https://pitchwall.co",
+    "domain": "pitchwall.co",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 65,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "betabound.com",
+    "name": "Betabound",
+    "url": "https://betabound.com",
+    "domain": "betabound.com",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 65,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tapscape.com",
+    "name": "Tapscape",
+    "url": "http://www.tapscape.com/submit-app-re",
+    "domain": "tapscape.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 65,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tap4.ai",
+    "name": "Tap4 AI",
+    "url": "https://tap4.ai/submit",
+    "domain": "tap4.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 65,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "unita.co",
+    "name": "Unita",
+    "url": "https://unita.co",
+    "domain": "unita.co",
+    "categories": [
+      "social-communities"
+    ],
+    "fee": "free",
+    "domainRank": 65,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "woy.ai",
+    "name": "Woy.ai",
+    "url": "https://woy.ai/submit",
+    "domain": "woy.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 64,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "techpluto.com",
+    "name": "Tech Pluto",
+    "url": "https://www.techpluto.com/submit-startup/",
+    "domain": "techpluto.com",
+    "categories": [
+      "directories",
+      "publications"
+    ],
+    "fee": "free",
+    "domainRank": 64,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "popularaitools.ai",
+    "name": "Popular AI Tools",
+    "url": "https://www.popularaitools.ai/submit-a-tool",
+    "domain": "popularaitools.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 63,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "foundr.ai",
+    "name": "Foundr",
+    "url": "https://foundr.ai",
+    "domain": "foundr.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 63,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "craftwork.design",
+    "name": "Craftwork.design",
+    "url": "https://craftwork.design",
+    "domain": "craftwork.design",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 63,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "cssnectar.com",
+    "name": "CSS Nectar",
+    "url": "https://cssnectar.com/suggest-site",
+    "domain": "cssnectar.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 63,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "library.phygital.plus",
+    "name": "AI Library",
+    "url": "https://library.phygital.plus/tool-submission",
+    "domain": "library.phygital.plus",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 62,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitrendz.xyz",
+    "name": "AI Trendz",
+    "url": "https://aitrendz.xyz/submit-ai-link",
+    "domain": "aitrendz.xyz",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 62,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "saasaitools.com",
+    "name": "SaaS AI Tools",
+    "url": "https://saasaitools.com/submit",
+    "domain": "saasaitools.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 62,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "elocal.com",
+    "name": "eLocal",
+    "url": "https://elocal.com",
+    "domain": "elocal.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 62,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "app.marsdd.com",
+    "name": "MaRS DD",
+    "url": "https://app.marsdd.com/companies",
+    "domain": "app.marsdd.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 61,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "indiepa.ge",
+    "name": "Indie Page",
+    "url": "https://indiepa.ge",
+    "domain": "indiepa.ge",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 61,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tinylaun.ch",
+    "name": "Tiny Launch",
+    "url": "https://www.tinylaun.ch",
+    "domain": "tinylaun.ch",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 61,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "futurestartup.com",
+    "name": "Future Startup",
+    "url": "https://futurestartup.com/",
+    "domain": "futurestartup.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 61,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "findmyaitool.com",
+    "name": "Find My AI Tool",
+    "url": "https://findmyaitool.com/submit-tool",
+    "domain": "findmyaitool.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 60,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "appsmirror.com",
+    "name": "Apps Mirror",
+    "url": "http://www.appsmirror.com/submit-your-app-for-review",
+    "domain": "appsmirror.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 60,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "technologyadvice.com",
+    "name": "Technology Advice",
+    "url": "https://technologyadvice.com",
+    "domain": "technologyadvice.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 60,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aiai.tools",
+    "name": "AIAI.Tools",
+    "url": "https://aiai.tools/submit-ai-tool",
+    "domain": "aiai.tools",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 59,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "cloudfindr.co",
+    "name": "Cloud Findr",
+    "url": "https://cloudfindr.co",
+    "domain": "cloudfindr.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 59,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "freebiesupply.com",
+    "name": "Freebie Supply",
+    "url": "https://freebiesupply.com",
+    "domain": "freebiesupply.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 59,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "news.bensbites.co",
+    "name": "Ben's Bites",
+    "url": "https://news.bensbites.co",
+    "domain": "news.bensbites.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 58,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "hotfrog.com",
+    "name": "Hotfrog",
+    "url": "https://hotfrog.com",
+    "domain": "hotfrog.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 58,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "nocodefounders.com",
+    "name": "No Code Founders",
+    "url": "https://nocodefounders.com",
+    "domain": "nocodefounders.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 58,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolmall.com",
+    "name": "AI Tool Mall",
+    "url": "https://aitoolmall.com/submit",
+    "domain": "aitoolmall.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 58,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "powerusers.ai",
+    "name": "Powerusers AI",
+    "url": "https://powerusers.ai/submit-ai-tool",
+    "domain": "powerusers.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 58,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "layers.to",
+    "name": "Layers.to",
+    "url": "https://layers.to",
+    "domain": "layers.to",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 58,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "microlaunch.net",
+    "name": "Micro Launch",
+    "url": "https://microlaunch.net",
+    "domain": "microlaunch.net",
+    "categories": [
+      "launch-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": 58,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "thehiveindex.com",
+    "name": "Hive Index",
+    "url": "https://thehiveindex.com/submit",
+    "domain": "thehiveindex.com",
+    "categories": [
+      "social-communities"
+    ],
+    "fee": "free",
+    "domainRank": 57,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "abilogic.com",
+    "name": "Abi Logic",
+    "url": "https://abilogic.com",
+    "domain": "abilogic.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 56,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "ezlocal.com",
+    "name": "EZLocal",
+    "url": "https://ezlocal.com",
+    "domain": "ezlocal.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 56,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "promoteproject.com",
+    "name": "promoteproject",
+    "url": "https://promoteproject.com/submit-startup",
+    "domain": "promoteproject.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 55,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "maxibestof.one",
+    "name": "MaxieBestOf",
+    "url": "https://maxibestof.one/submit",
+    "domain": "maxibestof.one",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 55,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toolio.ai",
+    "name": "Toolio.ai",
+    "url": "https://www.toolio.ai/submit-a-tool",
+    "domain": "toolio.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 55,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aiwith.me",
+    "name": "AI With Me",
+    "url": "https://aiwith.me/submit",
+    "domain": "aiwith.me",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 55,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "wip.co",
+    "name": "WIP",
+    "url": "https://wip.co",
+    "domain": "wip.co",
+    "categories": [
+      "social-communities"
+    ],
+    "fee": "paid",
+    "domainRank": 55,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "godly.website",
+    "name": "Godly",
+    "url": "https://godly.website/info",
+    "domain": "godly.website",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 55,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "fazier.com",
+    "name": "Fazier",
+    "url": "https://fazier.com",
+    "domain": "fazier.com",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": 54,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "similarsitesearch.com",
+    "name": "Similar Site Search",
+    "url": "http://similarsitesearch.com/webmaster",
+    "domain": "similarsitesearch.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 54,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "appagg.com",
+    "name": "Appagg",
+    "url": "http://appagg.com",
+    "domain": "appagg.com",
+    "categories": [
+      "misc"
+    ],
+    "fee": "free",
+    "domainRank": 54,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "showmelocal.com",
+    "name": "Show Me Local",
+    "url": "https://showmelocal.com",
+    "domain": "showmelocal.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 53,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "findstack.com",
+    "name": "findstack",
+    "url": "https://findstack.com",
+    "domain": "findstack.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 53,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "fivetaco.com",
+    "name": "Five Taco",
+    "url": "https://fivetaco.com",
+    "domain": "fivetaco.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 53,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "dokeyai.com",
+    "name": "DokeyAI",
+    "url": "https://dokeyai.com/submit",
+    "domain": "dokeyai.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 53,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "letterlist.com",
+    "name": "Letter List",
+    "url": "https://letterlist.com/submit",
+    "domain": "letterlist.com",
+    "categories": [
+      "misc"
+    ],
+    "fee": "free",
+    "domainRank": 53,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "alteropen.com",
+    "name": "AlterOpen",
+    "url": "https://alteropen.com",
+    "domain": "alteropen.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 52,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "builtatlightspeed.com",
+    "name": "Built At Lightspeed",
+    "url": "https://www.builtatlightspeed.com",
+    "domain": "builtatlightspeed.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 52,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoptools.com",
+    "name": "AI Top Tools",
+    "url": "https://aitoptools.com/account/submit-tool",
+    "domain": "aitoptools.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 51,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolboard.com",
+    "name": "AI ToolBoard",
+    "url": "https://aitoolboard.com/submit-ai-tool",
+    "domain": "aitoolboard.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 51,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "stork.ai",
+    "name": "Stork",
+    "url": "https://www.stork.ai",
+    "domain": "stork.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 50,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolsdirectory.com",
+    "name": "AI Tools Directory",
+    "url": "https://aitoolsdirectory.com/submit-tool",
+    "domain": "aitoolsdirectory.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 50,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "apps400.com",
+    "name": "Apps 400",
+    "url": "https://apps400.com",
+    "domain": "apps400.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 50,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "uneed.best",
+    "name": "U Need",
+    "url": "https://www.uneed.best/submit-a-tool",
+    "domain": "uneed.best",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 50,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "spectacle.is",
+    "name": "Spectacle",
+    "url": "https://spectacle.is/submit",
+    "domain": "spectacle.is",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 50,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "openstartuplist.com",
+    "name": "Open Startup List",
+    "url": "https://openstartuplist.com",
+    "domain": "openstartuplist.com",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 50,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "appscribed.com",
+    "name": "Appscribed",
+    "url": "https://appscribed.com/product-list",
+    "domain": "appscribed.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 50,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "frontenddevelopers.org",
+    "name": "Front-end Developers",
+    "url": "http://frontenddevelopers.org",
+    "domain": "frontenddevelopers.org",
+    "categories": [
+      "social-communities"
+    ],
+    "fee": "free",
+    "domainRank": 50,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "libhunt.com",
+    "name": "Lib Hunt",
+    "url": "https://libhunt.com",
+    "domain": "libhunt.com",
+    "categories": [
+      "misc"
+    ],
+    "fee": "free",
+    "domainRank": 50,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolnet.com",
+    "name": "Aitoolnet",
+    "url": "https://www.aitoolnet.com/submit",
+    "domain": "aitoolnet.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 49,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startuptracker.io",
+    "name": "Startup Tracker",
+    "url": "https://startuptracker.io/crowdsourcing/",
+    "domain": "startuptracker.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 49,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "selecthub.com",
+    "name": "SelectHub",
+    "url": "https://selecthub.com",
+    "domain": "selecthub.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 49,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startupdope.com",
+    "name": "Startup Dope",
+    "url": "https://startupdope.com/submit-news/",
+    "domain": "startupdope.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 49,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "techendo.com",
+    "name": "Techendo",
+    "url": "http://techendo.com/beta",
+    "domain": "techendo.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 49,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "commercecream.com",
+    "name": "Commerce Cream",
+    "url": "https://commercecream.com",
+    "domain": "commercecream.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 49,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "insidr.ai",
+    "name": "Insidr.ai",
+    "url": "https://www.insidr.ai/submit-tools",
+    "domain": "insidr.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 48,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startupbuffer.com",
+    "name": "Startup Buffer",
+    "url": "https://startupbuffer.com/site/submit",
+    "domain": "startupbuffer.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 48,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "webapprater.com",
+    "name": "Web App Rater",
+    "url": "https://webapprater.com/submit-your-web-application-for-review-html",
+    "domain": "webapprater.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 48,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "cipinet.com",
+    "name": "Cipinet",
+    "url": "https://www.cipinet.com/submit.php",
+    "domain": "cipinet.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 48,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "openfuture.ai",
+    "name": "Openfuture",
+    "url": "https://openfuture.ai/submit-tool",
+    "domain": "openfuture.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 48,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aidude.info",
+    "name": "AI Dude",
+    "url": "https://aidude.info/submit-your-tool",
+    "domain": "aidude.info",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 48,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitechsuite.com",
+    "name": "AI Tech Suite",
+    "url": "https://www.aitechsuite.com/submit",
+    "domain": "aitechsuite.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 48,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "saaslandingpage.com",
+    "name": "SaaS Landing Page",
+    "url": "https://saaslandingpage.com",
+    "domain": "saaslandingpage.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 48,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitools.fyi",
+    "name": "AI Tools FYI",
+    "url": "https://aitools.fyi",
+    "domain": "aitools.fyi",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 47,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "alphadigits.com",
+    "name": "Alpha Digits",
+    "url": "https://alphadigits.com/submit-app-for-review",
+    "domain": "alphadigits.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 47,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "pinkary.com",
+    "name": "Pinkary",
+    "url": "https://pinkary.com",
+    "domain": "pinkary.com",
+    "categories": [
+      "social-communities"
+    ],
+    "fee": "free",
+    "domainRank": 47,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "techfaster.com",
+    "name": "Tech Faster",
+    "url": "http://techfaster.com/submit-your-company/",
+    "domain": "techfaster.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 47,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "thestartupinc.com",
+    "name": "The Startup Inc",
+    "url": "https://thestartupinc.com",
+    "domain": "thestartupinc.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 47,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tinystartups.com",
+    "name": "Tiny Startups",
+    "url": "https://tinystartups.com",
+    "domain": "tinystartups.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 46,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "basedtools.ai",
+    "name": "BasedTools",
+    "url": "https://www.basedtools.ai/submit",
+    "domain": "basedtools.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 46,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "iuu.ai",
+    "name": "Iuu",
+    "url": "https://iuu.ai/submit",
+    "domain": "iuu.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 46,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "domore.ai",
+    "name": "DoMore.ai",
+    "url": "https://domore.ai/submit-tool",
+    "domain": "domore.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 45,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startups.fyi",
+    "name": "startups.fyi",
+    "url": "https://startups.fyi",
+    "domain": "startups.fyi",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": 45,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "romanianstartups.com",
+    "name": "Romanian Startups",
+    "url": "https://www.romanianstartups.com",
+    "domain": "romanianstartups.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 45,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "sidebar.io",
+    "name": "Sidebar",
+    "url": "https://sidebar.io",
+    "domain": "sidebar.io",
+    "categories": [
+      "publications"
+    ],
+    "fee": "free",
+    "domainRank": 45,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "gadgetnutz.com",
+    "name": "Gadget Nutz",
+    "url": "https://gadgetnutz.com/contact-us",
+    "domain": "gadgetnutz.com",
+    "categories": [
+      "misc"
+    ],
+    "fee": "free",
+    "domainRank": 45,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "marsx.dev",
+    "name": "MarsX",
+    "url": "https://www.marsx.dev/ai-startups",
+    "domain": "marsx.dev",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 44,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "theainavigator.com",
+    "name": "The AI Navigator",
+    "url": "https://www.theainavigator.com/submit-an-ai-tool",
+    "domain": "theainavigator.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 44,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "techlomedia.in",
+    "name": "Techlo Media",
+    "url": "https://techlomedia.in",
+    "domain": "techlomedia.in",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 44,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "pfolios.net",
+    "name": "PFolios",
+    "url": "https://pfolios.net",
+    "domain": "pfolios.net",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 44,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aicenter.ai",
+    "name": "AI Center",
+    "url": "https://aicenter.ai/submit-tools",
+    "domain": "aicenter.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 43,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "launched.io",
+    "name": "Launched",
+    "url": "https://launched.io/SubmitStartup",
+    "domain": "launched.io",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 43,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startupbase.io",
+    "name": "StartupBase",
+    "url": "https://startupbase.io",
+    "domain": "startupbase.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 43,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "nocodelist.co",
+    "name": "No Code List",
+    "url": "https://nocodelist.co/submit",
+    "domain": "nocodelist.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 43,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "victrays.com",
+    "name": "Victrays",
+    "url": "https://victrays.com/submit-ai-tool",
+    "domain": "victrays.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 43,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tools.robingood.com",
+    "name": "Tools RobinGood",
+    "url": "https://tools.robingood.com",
+    "domain": "tools.robingood.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 42,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "cartcraze.com",
+    "name": "Cartcraze",
+    "url": "https://cartcraze.com/submit",
+    "domain": "cartcraze.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 42,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "appsthunder.com",
+    "name": "Apps Thunder",
+    "url": "https://appsthunder.com/submit-your-app/",
+    "domain": "appsthunder.com",
+    "categories": [
+      "misc"
+    ],
+    "fee": "paid",
+    "domainRank": 42,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aixploria.com",
+    "name": "Aixploria",
+    "url": "https://www.aixploria.com/en/add-ai",
+    "domain": "aixploria.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 41,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "bunity.com",
+    "name": "Bunity",
+    "url": "https://bunity.com",
+    "domain": "bunity.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 41,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startupinspire.com",
+    "name": "Startup Inspire",
+    "url": "https://startupinspire.com",
+    "domain": "startupinspire.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 41,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aistage.net",
+    "name": "AI Stage",
+    "url": "https://aistage.net",
+    "domain": "aistage.net",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 40,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolsone.com",
+    "name": "AI Tools One",
+    "url": "https://aitoolsone.com",
+    "domain": "aitoolsone.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 39,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aidirectori.es",
+    "name": "AI Directories",
+    "url": "https://www.aidirectori.es",
+    "domain": "aidirectori.es",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 39,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aiparabellum.com",
+    "name": "AI Parabellum",
+    "url": "https://aiparabellum.com/submit-your-ai-tool",
+    "domain": "aiparabellum.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 39,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "itqlick.com",
+    "name": "ITQlick",
+    "url": "https://itqlick.com",
+    "domain": "itqlick.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "paid",
+    "domainRank": 39,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "frameplate.co",
+    "name": "Frameplate",
+    "url": "https://frameplate.co",
+    "domain": "frameplate.co",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 39,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toolfinder.co",
+    "name": "Tool Finder",
+    "url": "https://toolfinder.co",
+    "domain": "toolfinder.co",
+    "categories": [
+      "misc"
+    ],
+    "fee": "paid",
+    "domainRank": 39,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "bai.tools",
+    "name": "BAI",
+    "url": "https://bai.tools/submit-ai-tools",
+    "domain": "bai.tools",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 38,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startups.fm",
+    "name": "Startups.fm",
+    "url": "https://www.startups.fm",
+    "domain": "startups.fm",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 38,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "theinsaneapp.com",
+    "name": "Insane",
+    "url": "https://theinsaneapp.com",
+    "domain": "theinsaneapp.com",
+    "categories": [
+      "publications"
+    ],
+    "fee": "free",
+    "domainRank": 38,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "deadsimplesites.com",
+    "name": "Dead Simple Sites",
+    "url": "https://deadsimplesites.com",
+    "domain": "deadsimplesites.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 38,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "appsandwebsites.com",
+    "name": "Apps and Websites",
+    "url": "https://appsandwebsites.com",
+    "domain": "appsandwebsites.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 37,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolmate.com",
+    "name": "AI Tool Mate",
+    "url": "https://aitoolmate.com",
+    "domain": "aitoolmate.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 37,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "freeappsai.com",
+    "name": "Free AI Apps",
+    "url": "https://freeappsai.com/add",
+    "domain": "freeappsai.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 37,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "liaiseplatform.com",
+    "name": "Liaise Platform",
+    "url": "https://liaiseplatform.com",
+    "domain": "liaiseplatform.com",
+    "categories": [
+      "directories",
+      "misc"
+    ],
+    "fee": "free",
+    "domainRank": 37,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "allgpts.co",
+    "name": "All GPTs",
+    "url": "https://allgpts.co",
+    "domain": "allgpts.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 36,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "resource.fyi",
+    "name": "Resource FYI",
+    "url": "https://resource.fyi",
+    "domain": "resource.fyi",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 36,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "fmhy.pages.dev",
+    "name": "FMHY",
+    "url": "https://fmhy.pages.dev/other/contributing#submitting-a-link",
+    "domain": "fmhy.pages.dev",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 36,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "flattrendz.com",
+    "name": "Flat Trendz",
+    "url": "https://flattrendz.com/submit-a-site",
+    "domain": "flattrendz.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 36,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "hdrobots.com",
+    "name": "HD Robots",
+    "url": "https://hdrobots.com/submit-ai-tool",
+    "domain": "hdrobots.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 35,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "appiod.com",
+    "name": "Appoid",
+    "url": "http://appiod.com/submit-app-for-review",
+    "domain": "appiod.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 35,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "appsmamma.com",
+    "name": "Apps Mamma",
+    "url": "http://appsmamma.com/submit-your-app",
+    "domain": "appsmamma.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 35,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "publicapis.dev",
+    "name": "Public APIs",
+    "url": "https://publicapis.dev",
+    "domain": "publicapis.dev",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 35,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aihub.org",
+    "name": "AI Hub",
+    "url": "https://aihub.org/contribute/",
+    "domain": "aihub.org",
+    "categories": [
+      "publications"
+    ],
+    "fee": "free",
+    "domainRank": 35,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "uigoodies.com",
+    "name": "UI Goodies",
+    "url": "https://uigoodies.com",
+    "domain": "uigoodies.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 35,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "techbehemoths.com",
+    "name": "TechBehemoths",
+    "url": "https://techbehemoths.com/companies/get-listed",
+    "domain": "techbehemoths.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 34,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startupfa.me",
+    "name": "Startup Fame",
+    "url": "https://startupfa.me",
+    "domain": "startupfa.me",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 34,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "10words.io",
+    "name": "10 Words",
+    "url": "https://10words.io",
+    "domain": "10words.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 34,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "apprater.net",
+    "name": "Apprater",
+    "url": "https://apprater.net/add",
+    "domain": "apprater.net",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 34,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "dark.design",
+    "name": "Dark",
+    "url": "https://www.dark.design",
+    "domain": "dark.design",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 34,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "1000.tools",
+    "name": "1000.tools",
+    "url": "https://1000.tools",
+    "domain": "1000.tools",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 33,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tyy.ai",
+    "name": "TYY",
+    "url": "https://tyy.ai/submit",
+    "domain": "tyy.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 33,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "darkmodedesign.com",
+    "name": "Dark Mode Design",
+    "url": "https://www.darkmodedesign.com",
+    "domain": "darkmodedesign.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 33,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "flatui.com",
+    "name": "Flat Ui",
+    "url": "https://flatui.com/submit-flat-ui-designs",
+    "domain": "flatui.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 33,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "noonlaunch.com",
+    "name": "NoonLaunch",
+    "url": "https://noonlaunch.com",
+    "domain": "noonlaunch.com",
+    "categories": [
+      "directories",
+      "launch-platforms"
+    ],
+    "fee": "free",
+    "domainRank": 32,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "directoryworld.net",
+    "name": "Directory World",
+    "url": "https://directoryworld.net",
+    "domain": "directoryworld.net",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 32,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tekpon.com",
+    "name": "Tekpon",
+    "url": "https://tekpon.com",
+    "domain": "tekpon.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 32,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolsexplorer.com",
+    "name": "AI Tools Explorer",
+    "url": "https://aitoolsexplorer.com/submit-ai-tool",
+    "domain": "aitoolsexplorer.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 32,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aivalley.ai",
+    "name": "Ai Valley",
+    "url": "https://aivalley.ai/submit-tool",
+    "domain": "aivalley.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 31,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aiaccountingapps.com",
+    "name": "AI Accounting Apps",
+    "url": "https://www.aiaccountingapps.com",
+    "domain": "aiaccountingapps.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 31,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startupcollections.com",
+    "name": "Startup Collections",
+    "url": "https://startupcollections.com",
+    "domain": "startupcollections.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 31,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "thetoolbus.ai",
+    "name": "The Tool Bus",
+    "url": "https://www.thetoolbus.ai/ai-tools",
+    "domain": "thetoolbus.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 31,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "alivedirectory.com",
+    "name": "Alive Directory",
+    "url": "https://alivedirectory.com",
+    "domain": "alivedirectory.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 30,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolly.com",
+    "name": "AIToolly",
+    "url": "https://aitoolly.com/submit",
+    "domain": "aitoolly.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 30,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "taalk.com",
+    "name": "Taalk",
+    "url": "https://taalk.com/submit-startup",
+    "domain": "taalk.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 29,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "neede.co",
+    "name": "Neede",
+    "url": "https://neede.co",
+    "domain": "neede.co",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 29,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "designspells.com",
+    "name": "Design Spells",
+    "url": "https://www.designspells.com",
+    "domain": "designspells.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 29,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "poweredbyai.app",
+    "name": "PoweredbyAI",
+    "url": "https://poweredbyai.app/submit-tool",
+    "domain": "poweredbyai.app",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 28,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "directory.indie-starter.dev",
+    "name": "Indie Directory",
+    "url": "https://directory.indie-starter.dev",
+    "domain": "directory.indie-starter.dev",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 28,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "roozna.com",
+    "name": "Roozna",
+    "url": "https://roozna.com",
+    "domain": "roozna.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 28,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "awesomeaitools.com",
+    "name": "Awesome AI Tools",
+    "url": "https://awesomeaitools.com/submit-your-tool",
+    "domain": "awesomeaitools.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 28,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "seofai.com",
+    "name": "Search Engine OF AI",
+    "url": "https://seofai.com/submit-ai-tool",
+    "domain": "seofai.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 28,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aigo.tools",
+    "name": "AIGO.tools",
+    "url": "https://aigo.tools/submit",
+    "domain": "aigo.tools",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 28,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "saascss.com",
+    "name": "Saas Css",
+    "url": "https://saascss.com/submit",
+    "domain": "saascss.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 28,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "opentools.ai",
+    "name": "OpenTools.AI",
+    "url": "https://opentools.ai",
+    "domain": "opentools.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 27,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tipseason.com",
+    "name": "Tip Season",
+    "url": "https://tipseason.com",
+    "domain": "tipseason.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 27,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "dropyourai.com",
+    "name": "DropYourAI",
+    "url": "https://www.dropyourai.com/submit-tool",
+    "domain": "dropyourai.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 27,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "bestwebdesigntools.com",
+    "name": "Best Web Design Tools",
+    "url": "https://bestwebdesigntools.com",
+    "domain": "bestwebdesigntools.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 27,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aibest.tools",
+    "name": "AI Best Tools",
+    "url": "https://aibest.tools",
+    "domain": "aibest.tools",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "postmake.io",
+    "name": "Post Make",
+    "url": "https://postmake.io",
+    "domain": "postmake.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aieducator.tools",
+    "name": "Educator Tools",
+    "url": "https://aieducator.tools",
+    "domain": "aieducator.tools",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startupspotlight.co",
+    "name": "Startup Spotlight",
+    "url": "https://www.startupspotlight.co",
+    "domain": "startupspotlight.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toolhub.me",
+    "name": "Tool Hub",
+    "url": "https://toolhub.me",
+    "domain": "toolhub.me",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "allmacapps.com",
+    "name": "All Mac Apps",
+    "url": "https://allmacapps.com",
+    "domain": "allmacapps.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "boilerplatehub.com",
+    "name": "Boilerplate Hub",
+    "url": "https://boilerplatehub.com",
+    "domain": "boilerplatehub.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "first100users.com",
+    "name": "First 100 Users",
+    "url": "https://www.first100users.com/submit",
+    "domain": "first100users.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "altern.ai",
+    "name": "Altern",
+    "url": "https://altern.ai/submit#submit-tools",
+    "domain": "altern.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "gptacademy.co",
+    "name": "GPTAcademy",
+    "url": "https://www.gptacademy.co/submit",
+    "domain": "gptacademy.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toools.design",
+    "name": "Toools.design",
+    "url": "https://toools.design",
+    "domain": "toools.design",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "paid",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "deck.gallery",
+    "name": "Deck Gallery",
+    "url": "https://www.deck.gallery",
+    "domain": "deck.gallery",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "landingpage.fyi",
+    "name": "Landing Pages",
+    "url": "https://www.landingpage.fyi",
+    "domain": "landingpage.fyi",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 26,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aidepot.co",
+    "name": "AI Depot",
+    "url": "https://aidepot.co",
+    "domain": "aidepot.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 25,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "alternatives.co",
+    "name": "Alternatives.co",
+    "url": "https://alternatives.co",
+    "domain": "alternatives.co",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 25,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "robopost.app",
+    "name": "ToolPasta",
+    "url": "https://robopost.app/en/toolpasta/submit",
+    "domain": "robopost.app",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 25,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "tailkits.com",
+    "name": "Tailkits.com",
+    "url": "https://tailkits.com",
+    "domain": "tailkits.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 25,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toolspedia.io",
+    "name": "ToolsPedia",
+    "url": "https://www.toolspedia.io/submit-tool",
+    "domain": "toolspedia.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 24,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toollist.ai",
+    "name": "Tool List",
+    "url": "https://toollist.ai/product/create",
+    "domain": "toollist.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 24,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "productivity.directory",
+    "name": "Productivity Directory",
+    "url": "https://productivity.directory",
+    "domain": "productivity.directory",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 24,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "startuptile.com",
+    "name": "StartupTile",
+    "url": "https://startuptile.com",
+    "domain": "startuptile.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 24,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "osssoftware.org",
+    "name": "OSSsoftware.org",
+    "url": "https://osssoftware.org",
+    "domain": "osssoftware.org",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 24,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aioftheday.com",
+    "name": "AI of The Day",
+    "url": "https://aioftheday.com/submit-a-tool",
+    "domain": "aioftheday.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 22,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "canopydirectory.com",
+    "name": "Canopy Directory",
+    "url": "https://www.canopydirectory.com/suggest-tool",
+    "domain": "canopydirectory.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 22,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "bufferapps.com",
+    "name": "BufferApps",
+    "url": "https://bufferapps.com",
+    "domain": "bufferapps.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 22,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "mrfreetools.com",
+    "name": "Mr. Free Tools",
+    "url": "https://mrfreetools.com",
+    "domain": "mrfreetools.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 22,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "lachief.io",
+    "name": "Lachief.io",
+    "url": "https://lachief.io",
+    "domain": "lachief.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 22,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aimojo.io",
+    "name": "AImojo",
+    "url": "https://aimojo.io/submit/",
+    "domain": "aimojo.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 22,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitoolguru.com",
+    "name": "AI Tool Guru",
+    "url": "https://aitoolguru.com/submit-ai-tool",
+    "domain": "aitoolguru.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 21,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aitools.lol",
+    "name": "AI Tools",
+    "url": "https://aitools.lol",
+    "domain": "aitools.lol",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 21,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "aibesttop.com",
+    "name": "AI Best Top",
+    "url": "https://www.aibesttop.com",
+    "domain": "aibesttop.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 20,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "bestofai.com",
+    "name": "Best Of AI",
+    "url": "https://bestofai.com",
+    "domain": "bestofai.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 20,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "makermove.com",
+    "name": "MakerMove",
+    "url": "https://www.makermove.com/tools",
+    "domain": "makermove.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 20,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "saaspo.com",
+    "name": "Saaspo",
+    "url": "https://saaspo.com",
+    "domain": "saaspo.com",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 20,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "ai-search.io",
+    "name": "AI Search",
+    "url": "https://ai-search.io/submit",
+    "domain": "ai-search.io",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 19,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "mavtools.com",
+    "name": "MavTools",
+    "url": "https://mavtools.com/list-my-tool",
+    "domain": "mavtools.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 19,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toolscout.ai",
+    "name": "Tool Scout",
+    "url": "https://toolscout.ai/submit",
+    "domain": "toolscout.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 18,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "nextgentools.me",
+    "name": "NextGen Tools",
+    "url": "https://nextgentools.me/submit-your-tool",
+    "domain": "nextgentools.me",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 18,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "monkeyaitools.com",
+    "name": "Monkey Ai Tools",
+    "url": "https://www.monkeyaitools.com/submit-tool",
+    "domain": "monkeyaitools.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "paid",
+    "domainRank": 18,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toolsforhumans.ai",
+    "name": "ToolsForHumans.ai",
+    "url": "https://toolsforhumans.ai",
+    "domain": "toolsforhumans.ai",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 17,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "gptshunter.com",
+    "name": "Gpts Hunter",
+    "url": "https://gptshunter.com",
+    "domain": "gptshunter.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 17,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "awesomeindie.com",
+    "name": "Awesome Indie",
+    "url": "https://awesomeindie.com",
+    "domain": "awesomeindie.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 17,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "storefront.design",
+    "name": "Storefront Design",
+    "url": "https://www.storefront.design",
+    "domain": "storefront.design",
+    "categories": [
+      "design-showcases"
+    ],
+    "fee": "free",
+    "domainRank": 17,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "toolsfine.com",
+    "name": "ToolsFine",
+    "url": "https://toolsfine.com",
+    "domain": "toolsfine.com",
+    "categories": [
+      "directories"
+    ],
+    "fee": "free",
+    "domainRank": 16,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "linkedin.com",
+    "name": "Entrepreneur's Network",
+    "url": "https://www.linkedin.com/groups/91749",
+    "domain": "linkedin.com",
+    "categories": [
+      "social-communities",
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "hashnode.com",
+    "name": "Hashnode",
+    "url": "https://hashnode.com",
+    "domain": "hashnode.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Developers"
+  },
+  {
+    "id": "hackernoon.com",
+    "name": "HackerNoon",
+    "url": "https://hackernoon.com/signup",
+    "domain": "hackernoon.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Tech / Startup"
+  },
+  {
+    "id": "dzone.com",
+    "name": "DZone",
+    "url": "https://dzone.com/articles/write-for-us",
+    "domain": "dzone.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Developers"
+  },
+  {
+    "id": "css-tricks.com",
+    "name": "CSS-Tricks",
+    "url": "https://css-tricks.com/guest-posting",
+    "domain": "css-tricks.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Frontend Devs"
+  },
+  {
+    "id": "smashingmagazine.com",
+    "name": "Smashing Magazine",
+    "url": "https://www.smashingmagazine.com/write-for-us/",
+    "domain": "smashingmagazine.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Designers & Devs"
+  },
+  {
+    "id": "sitepoint.com",
+    "name": "SitePoint",
+    "url": "https://www.sitepoint.com/write-for-us/",
+    "domain": "sitepoint.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Web Developers"
+  },
+  {
+    "id": "code.tutsplus.com",
+    "name": "Tuts+ (Envato)",
+    "url": "https://code.tutsplus.com/write-for-us",
+    "domain": "code.tutsplus.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Developers"
+  },
+  {
+    "id": "blog.logrocket.com",
+    "name": "LogRocket Blog",
+    "url": "https://blog.logrocket.com/write-for-us/",
+    "domain": "blog.logrocket.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Frontend Devs"
+  },
+  {
+    "id": "tympanus.net",
+    "name": "Codrops",
+    "url": "https://tympanus.net/codrops/collective/",
+    "domain": "tympanus.net",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Creative Devs"
+  },
+  {
+    "id": "medium.com",
+    "name": "Medium",
+    "url": "https://medium.com/new-story",
+    "domain": "medium.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: General / Startup"
+  },
+  {
+    "id": "substack.com",
+    "name": "Substack",
+    "url": "https://substack.com",
+    "domain": "substack.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Newsletter Readers"
+  },
+  {
+    "id": "vocal.media",
+    "name": "Vocal.media",
+    "url": "https://vocal.media/for-creators",
+    "domain": "vocal.media",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: General Audience"
+  },
+  {
+    "id": "newsbreak.com",
+    "name": "Newsbreak",
+    "url": "https://www.newsbreak.com/creators",
+    "domain": "newsbreak.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: General Audience"
+  },
+  {
+    "id": "blogger.com",
+    "name": "Blogger",
+    "url": "https://blogger.com",
+    "domain": "blogger.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: General Audience"
+  },
+  {
+    "id": "ghost.org",
+    "name": "Ghost",
+    "url": "https://ghost.org",
+    "domain": "ghost.org",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Newsletter / Blog"
+  },
+  {
+    "id": "beehiiv.com",
+    "name": "Beehiiv",
+    "url": "https://beehiiv.com",
+    "domain": "beehiiv.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Newsletter Readers"
+  },
+  {
+    "id": "entrepreneur.com",
+    "name": "Entrepreneur",
+    "url": "https://www.entrepreneur.com/leadership/how-to-submit-articles",
+    "domain": "entrepreneur.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Entrepreneurs"
+  },
+  {
+    "id": "fastcompany.com",
+    "name": "Fast Company",
+    "url": "https://www.fastcompany.com/write-for-us",
+    "domain": "fastcompany.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Business Leaders"
+  },
+  {
+    "id": "inc.com",
+    "name": "Inc. Magazine",
+    "url": "https://www.inc.com/contributing",
+    "domain": "inc.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Entrepreneurs"
+  },
+  {
+    "id": "forbes.com",
+    "name": "Forbes (BrandVoice)",
+    "url": "https://www.forbes.com/sites/forbesbusinesscouncil/",
+    "domain": "forbes.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Business Leaders"
+  },
+  {
+    "id": "business2community.com",
+    "name": "Business2Community",
+    "url": "https://www.business2community.com/contribute",
+    "domain": "business2community.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Business Audience"
+  },
+  {
+    "id": "towardsdatascience.com",
+    "name": "Towards Data Science",
+    "url": "https://towardsdatascience.com/contribute",
+    "domain": "towardsdatascience.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Data / AI Audience"
+  },
+  {
+    "id": "betterprogramming.pub",
+    "name": "Better Programming",
+    "url": "https://betterprogramming.pub/write-for-us",
+    "domain": "betterprogramming.pub",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Developers"
+  },
+  {
+    "id": "uxdesign.cc",
+    "name": "UX Collective",
+    "url": "https://uxdesign.cc/write-for-us-56fc35a3b3c5",
+    "domain": "uxdesign.cc",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Designers"
+  },
+  {
+    "id": "flipboard.com",
+    "name": "Flipboard",
+    "url": "https://flipboard.com",
+    "domain": "flipboard.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: General Readers"
+  },
+  {
+    "id": "mix.com",
+    "name": "Mix (StumbleUpon)",
+    "url": "https://mix.com",
+    "domain": "mix.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: General Readers"
+  },
+  {
+    "id": "scoop.it",
+    "name": "Scoop.it",
+    "url": "https://scoop.it",
+    "domain": "scoop.it",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Curated Topics"
+  },
+  {
+    "id": "paper.li",
+    "name": "Paper.li",
+    "url": "https://paper.li",
+    "domain": "paper.li",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Newsletter Readers"
+  },
+  {
+    "id": "alltop.com",
+    "name": "AllTop",
+    "url": "https://alltop.com",
+    "domain": "alltop.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Blog Aggregator"
+  },
+  {
+    "id": "bloglovin.com",
+    "name": "Bloglovin",
+    "url": "https://bloglovin.com",
+    "domain": "bloglovin.com",
+    "categories": [
+      "writing-publishing-platforms"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "audience: Blog Readers"
+  },
+  {
+    "id": "frameloop.ai",
+    "name": "Frameloop.ai",
+    "url": "https://frameloop.ai",
+    "domain": "frameloop.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Scene-level control, faceless YT + Shorts, 15+ styles, 32 languages; starts at: Free / Paid"
+  },
+  {
+    "id": "invideo.io",
+    "name": "InVideo AI",
+    "url": "https://invideo.io",
+    "domain": "invideo.io",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Text prompt → full video, 16M+ stock clips, avatars; starts at: Free / $25/mo"
+  },
+  {
+    "id": "pictory.ai",
+    "name": "Pictory",
+    "url": "https://pictory.ai",
+    "domain": "pictory.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Script/blog → video with stock footage, auto captions; starts at: Free / $19/mo"
+  },
+  {
+    "id": "fliki.ai",
+    "name": "Fliki",
+    "url": "https://fliki.ai",
+    "domain": "fliki.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Script → video with AI voice + stock, voice cloning; starts at: Free / $21/mo"
+  },
+  {
+    "id": "synthesia.io",
+    "name": "Synthesia",
+    "url": "https://synthesia.io",
+    "domain": "synthesia.io",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: AI avatar presenter videos, 140+ languages; starts at: $22/mo"
+  },
+  {
+    "id": "heygen.com",
+    "name": "HeyGen",
+    "url": "https://heygen.com",
+    "domain": "heygen.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Ultra-realistic avatars, video translation, lip-sync; starts at: Free / $29/mo"
+  },
+  {
+    "id": "vidyo.ai",
+    "name": "Vidyo.ai",
+    "url": "https://vidyo.ai",
+    "domain": "vidyo.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Long video → short clips, auto-captions, multi-platform; starts at: Free / $29/mo"
+  },
+  {
+    "id": "opus.pro",
+    "name": "OpusClip",
+    "url": "https://opus.pro",
+    "domain": "opus.pro",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Virality scoring, auto-clips from long videos; starts at: Free / $15/mo"
+  },
+  {
+    "id": "getmunch.com",
+    "name": "Munch",
+    "url": "https://getmunch.com",
+    "domain": "getmunch.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Trend-aware clipping for LinkedIn & YouTube; starts at: $49/mo"
+  },
+  {
+    "id": "descript.com",
+    "name": "Descript",
+    "url": "https://descript.com",
+    "domain": "descript.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Transcript-based editing, podcast → clips; starts at: Free / $24/mo"
+  },
+  {
+    "id": "riverside.fm",
+    "name": "Riverside.fm",
+    "url": "https://riverside.fm",
+    "domain": "riverside.fm",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Record + clip podcasts & interviews in 4K; starts at: Free / $15/mo"
+  },
+  {
+    "id": "elevenlabs.io",
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "domain": "elevenlabs.io",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Most natural AI voices, voice cloning; starts at: Free / $5/mo"
+  },
+  {
+    "id": "murf.ai",
+    "name": "Murf.ai",
+    "url": "https://murf.ai",
+    "domain": "murf.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Studio voiceovers, 120+ voices, video sync; starts at: Free / $19/mo"
+  },
+  {
+    "id": "lovo.ai",
+    "name": "LOVO AI",
+    "url": "https://lovo.ai",
+    "domain": "lovo.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Voiceover + video editor built-in; starts at: Free / $24/mo"
+  },
+  {
+    "id": "play.ht",
+    "name": "Play.ht",
+    "url": "https://play.ht",
+    "domain": "play.ht",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Voice cloning, 900+ voices, API access; starts at: Free / $31/mo"
+  },
+  {
+    "id": "camb.ai",
+    "name": "CAMB.AI",
+    "url": "https://camb.ai",
+    "domain": "camb.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: AI dubbing in 140+ languages; starts at: Free trial"
+  },
+  {
+    "id": "chat.openai.com",
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "domain": "chat.openai.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Ideation, outlines, full scripts; starts at: Free / $20/mo"
+  },
+  {
+    "id": "claude.ai",
+    "name": "Claude",
+    "url": "https://claude.ai",
+    "domain": "claude.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Long-form scripts, brand voice, research; starts at: Free / $20/mo"
+  },
+  {
+    "id": "copy.ai",
+    "name": "Copy.ai",
+    "url": "https://copy.ai",
+    "domain": "copy.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: YouTube scripts + hooks + SEO titles; starts at: Free / $36/mo"
+  },
+  {
+    "id": "jasper.ai",
+    "name": "Jasper",
+    "url": "https://jasper.ai",
+    "domain": "jasper.ai",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Scripts with brand voice training; starts at: $39/mo"
+  },
+  {
+    "id": "vidiq.com",
+    "name": "VidIQ",
+    "url": "https://vidiq.com",
+    "domain": "vidiq.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Keyword research, competitor analysis, trend alerts; starts at: Free / $7.50/mo"
+  },
+  {
+    "id": "tubebuddy.com",
+    "name": "TubeBuddy",
+    "url": "https://tubebuddy.com",
+    "domain": "tubebuddy.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: SEO tags, A/B thumbnail testing, bulk tools; starts at: Free / $4.99/mo"
+  },
+  {
+    "id": "canva.com",
+    "name": "Canva",
+    "url": "https://canva.com",
+    "domain": "canva.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Templates, batch thumbnail creation; starts at: Free / $15/mo"
+  },
+  {
+    "id": "midjourney.com",
+    "name": "Midjourney",
+    "url": "https://midjourney.com",
+    "domain": "midjourney.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: AI-generated eye-catching visuals; starts at: $10/mo"
+  },
+  {
+    "id": "pexels.com",
+    "name": "Pexels",
+    "url": "https://pexels.com",
+    "domain": "pexels.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "pixabay.com",
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "domain": "pixabay.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "mixkit.co",
+    "name": "Mixkit",
+    "url": "https://mixkit.co",
+    "domain": "mixkit.co",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "free",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "storyblocks.com",
+    "name": "Storyblocks",
+    "url": "https://storyblocks.com",
+    "domain": "storyblocks.com",
+    "categories": [
+      "faceless-youtube-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": ""
+  },
+  {
+    "id": "replyagent.ai",
+    "name": "ReplyAgent.ai",
+    "url": "https://replyagent.ai",
+    "domain": "replyagent.ai",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Fully managed accounts, pay-per-comment ($3), zero ban risk; starts at: $10 free credit"
+  },
+  {
+    "id": "redreach.ai",
+    "name": "Redreach",
+    "url": "https://redreach.ai",
+    "domain": "redreach.ai",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Auto keyword discovery, Google-ranking thread detection, AI reply drafts; starts at: Paid"
+  },
+  {
+    "id": "subredditsignals.com",
+    "name": "Subreddit Signals",
+    "url": "https://subredditsignals.com",
+    "domain": "subredditsignals.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Lead discovery, intent scoring, AI comment drafts, CRM sync; starts at: 7-day trial"
+  },
+  {
+    "id": "indiepilot.app",
+    "name": "IndiePilot",
+    "url": "https://indiepilot.app",
+    "domain": "indiepilot.app",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Intent scoring, 30 keyword tracking, AI replies, multi-business dashboard; starts at: Paid"
+  },
+  {
+    "id": "prems.ai",
+    "name": "Prems",
+    "url": "https://prems.ai",
+    "domain": "prems.ai",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Reddit + LinkedIn + Quora + 10 platforms, AI intent scoring; starts at: Paid"
+  },
+  {
+    "id": "catchintent.com",
+    "name": "CatchIntent",
+    "url": "https://catchintent.com",
+    "domain": "catchintent.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Buyer intent signals on Reddit, HN & Bluesky, Slack/Discord alerts; starts at: Paid"
+  },
+  {
+    "id": "f5bot.com",
+    "name": "F5Bot",
+    "url": "https://f5bot.com",
+    "domain": "f5bot.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Free keyword alerts for Reddit + HN + Lobsters, no account needed; starts at: Forever free"
+  },
+  {
+    "id": "kwatch.io",
+    "name": "KWatch.io",
+    "url": "https://kwatch.io",
+    "domain": "kwatch.io",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Affordable Reddit + Twitter monitoring with AI filtering; starts at: $19/mo"
+  },
+  {
+    "id": "buska.io",
+    "name": "Buska",
+    "url": "https://buska.io",
+    "domain": "buska.io",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: AI-powered mention monitoring, intent detection; starts at: $29/mo"
+  },
+  {
+    "id": "brand24.com",
+    "name": "Brand24",
+    "url": "https://brand24.com",
+    "domain": "brand24.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Cross-platform listening (Reddit + 25 channels), sentiment analysis; starts at: $79/mo"
+  },
+  {
+    "id": "brandwatch.com",
+    "name": "Brandwatch",
+    "url": "https://brandwatch.com",
+    "domain": "brandwatch.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Enterprise social listening, competitor analysis, advanced analytics; starts at: Custom"
+  },
+  {
+    "id": "deviapp.com",
+    "name": "Devi",
+    "url": "https://deviapp.com",
+    "domain": "deviapp.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Reddit + Twitter + LinkedIn + Facebook monitoring in one; starts at: $49.90/mo"
+  },
+  {
+    "id": "postpone.app",
+    "name": "Postpone",
+    "url": "https://postpone.app",
+    "domain": "postpone.app",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Reddit-specific scheduler, best-time suggestions, multi-subreddit; starts at: $19/mo"
+  },
+  {
+    "id": "later.com",
+    "name": "Later",
+    "url": "https://later.com",
+    "domain": "later.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Social scheduling including Reddit support; starts at: Free / $18/mo"
+  },
+  {
+    "id": "buffer.com",
+    "name": "Buffer",
+    "url": "https://buffer.com",
+    "domain": "buffer.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Simple scheduling with Reddit support; starts at: Free / $6/mo"
+  },
+  {
+    "id": "reddily.com",
+    "name": "Reddily",
+    "url": "https://reddily.com",
+    "domain": "reddily.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: ICP research, audience pain point discovery, batch analysis; starts at: 5 free credits"
+  },
+  {
+    "id": "trendseeker.app",
+    "name": "Trend Seeker",
+    "url": "https://trendseeker.app",
+    "domain": "trendseeker.app",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Pre-product idea validation, free subreddit trend analysis; starts at: Free"
+  },
+  {
+    "id": "painonsocial.com",
+    "name": "PainOnSocial",
+    "url": "https://painonsocial.com",
+    "domain": "painonsocial.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Reddit pain point extraction for ICP research; starts at: Paid"
+  },
+  {
+    "id": "highervisibility.com",
+    "name": "Keyworddit",
+    "url": "https://www.highervisibility.com/seo/tools/keyworddit/",
+    "domain": "highervisibility.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Extract keywords from any subreddit, free SEO research; starts at: Free"
+  },
+  {
+    "id": "redditinsights.ai",
+    "name": "RedditInsights.ai",
+    "url": "https://redditinsights.ai",
+    "domain": "redditinsights.ai",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Scrape question-format content from subreddits, keyword lists; starts at: Paid"
+  },
+  {
+    "id": "mangools.com",
+    "name": "Mangools Reddit Finder",
+    "url": "https://mangools.com",
+    "domain": "mangools.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Reddit threads ranking in SERPs with keyword metrics; starts at: $29/mo"
+  },
+  {
+    "id": "ads.reddit.com",
+    "name": "Reddit Ads Manager",
+    "url": "https://ads.reddit.com",
+    "domain": "ads.reddit.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Native Reddit ad campaigns, audience targeting; starts at: Free to set up"
+  },
+  {
+    "id": "ahrefs.com",
+    "name": "Ahrefs Brand Radar",
+    "url": "https://ahrefs.com",
+    "domain": "ahrefs.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Track Reddit mentions with impression estimates; starts at: $99/mo"
+  },
+  {
+    "id": "semrush.com",
+    "name": "Semrush",
+    "url": "https://semrush.com",
+    "domain": "semrush.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "paid",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Keyword strategy from Reddit-sourced topics; starts at: $129/mo"
+  },
+  {
+    "id": "reddit.com",
+    "name": "Reddit Native Insights",
+    "url": "https://reddit.com/advertising",
+    "domain": "reddit.com",
+    "categories": [
+      "reddit-growth-tools"
+    ],
+    "fee": "unknown",
+    "domainRank": null,
+    "source": "startup-promotion-sites",
+    "status": "todo",
+    "notes": "best for: Community Intelligence built into Reddit Pro; starts at: Free with Reddit"
+  }
+]
