@@ -89,9 +89,9 @@ export default function OpportunityTable({ items }: { items: Opportunity[] }) {
       </p>
 
       <div className="overflow-x-auto">
-        <table className="w-full text-sm text-left">
+        <table className="w-full text-base text-left">
           <thead>
-            <tr className="border-b border-gray-400/50">
+            <tr className="border-b-2 border-gray-400/60 bg-gray-500/15">
               <th className="py-2 pr-4">Name</th>
               <th className="py-2 pr-4">Category</th>
               <th className="py-2 pr-4">Fee</th>
@@ -101,7 +101,7 @@ export default function OpportunityTable({ items }: { items: Opportunity[] }) {
           </thead>
           <tbody>
             {filtered.map((i) => (
-              <tr key={i.id} className="border-b border-gray-400/20">
+              <tr key={i.id} className="border-b border-gray-400/30 hover:bg-gray-500/10">
                 <td className="py-2 pr-4">
                   <a href={i.url} target="_blank" rel="noopener noreferrer" className="font-medium underline">
                     {i.name}
@@ -109,7 +109,7 @@ export default function OpportunityTable({ items }: { items: Opportunity[] }) {
                   <div className="text-xs opacity-60">{i.domain}</div>
                 </td>
                 <td className="py-2 pr-4">{i.categories.join(", ")}</td>
-                <td className="py-2 pr-4">{i.fee}</td>
+                <td className="py-2 pr-4"><span className={i.fee === "free" ? "rounded bg-green-500/20 px-2 py-0.5 text-green-600" : "rounded bg-amber-500/20 px-2 py-0.5 text-amber-600"}>{i.fee}</span></td>
                 <td className="py-2 pr-4">{i.domainRank ?? "-"}</td>
                 <td className="py-2">
                   <select
@@ -128,3 +128,5 @@ export default function OpportunityTable({ items }: { items: Opportunity[] }) {
     </div>
   );
 }
+
+
