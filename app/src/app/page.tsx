@@ -6,9 +6,10 @@ export default function Home() {
     <main className="max-w-6xl mx-auto p-6 space-y-6">
       <header>
         <h1 className="text-2xl font-bold">HUUBOI Opportunity Hub</h1>
-        <p className="opacity-70">Directories, launch platforms and communities to get HUUBOI found.</p>
+        <p className="opacity-70">Directories, launch platforms and communities for HUUBOI and the portfolio. Sorted by fit.</p>
       </header>
       <OpportunityTable items={data as Opportunity[]} />
     </main>
   );
 }
+
